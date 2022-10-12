@@ -1,4 +1,4 @@
-# Physical-Verification-using-SKY130-
+# Physical Verification using SKY130
 
 ![Workshop_Image](https://user-images.githubusercontent.com/102425944/195231772-acf036f3-4dea-4d8e-b267-666d2dc2c023.jpeg)
 

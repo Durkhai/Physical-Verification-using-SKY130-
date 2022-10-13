@@ -135,5 +135,15 @@ Results of LVS from PDK netlist and magic outputed netlist of the and2_1 cell.
 
 ### Setup for XOR
 
+The and2_1 cell was copied into another layout named "altered". Then, a piece of the locxal interconnect was removed.
 
+![image](https://user-images.githubusercontent.com/102425944/195686084-95523123-1b41-4ae3-a994-2d84e5a94136.png)
+
+After running a XOR test between these 2 cells we get the differences in geometry between them.
+
+![image](https://user-images.githubusercontent.com/102425944/195686661-de479838-21ae-4d1f-b951-a7cf27ade3df.png)
+
+Results of the XOR test after shifting a cell:
+
+![image](https://user-images.githubusercontent.com/102425944/195687756-384f152e-fe41-4231-8abc-fbb6f2872afe.png)
 

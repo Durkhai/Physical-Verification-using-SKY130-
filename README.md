@@ -57,3 +57,36 @@ This tells us that there was a problem with creating the nets on the layout.
 
 
 ## Day 2 - DRC/LVS Introduction
+
+### GDS read
+
+Firstly, the GDS files for the skywater library cells were read into magic with the istyle sky130().
+
+![image](https://user-images.githubusercontent.com/102425944/195670235-d991cc6d-d053-4d67-b5a4-607f8d748812.png)
+
+Afterwards, the istyle was changed to sky130(vendor) and the files were read again.
+
+![image](https://user-images.githubusercontent.com/102425944/195670471-26df79aa-7275-4e1a-92e8-5a0961d46481.png)
+
+This time, the cells that were read as text are now identified as pins (tags went from yellow to dark blue).
+
+### Ports
+
+Only GDS file was read into magic:
+
+![image](https://user-images.githubusercontent.com/102425944/195672399-28fdad1f-aded-4b75-9c43-d865805d46d4.png)
+
+After LEF file was read:
+
+![image](https://user-images.githubusercontent.com/102425944/195672856-58b73820-a6c8-4ca4-bc37-91eadac1dbf4.png)
+
+After spice netlist was read:
+
+![image](https://user-images.githubusercontent.com/102425944/195673358-920e893b-4e72-4fb0-8cfd-7d554e571a82.png)
+
+
+### Abstract view
+
+![image](https://user-images.githubusercontent.com/102425944/195671189-ffa868db-22ba-425a-8e52-dc78f026a0b0.png)
+
+

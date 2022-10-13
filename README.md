@@ -60,7 +60,7 @@ This tells us that there was a problem with creating the nets on the layout.
 
 ### GDS read
 
-Firstly, the GDS files for the skywater library cells were read into magic with the istyle sky130().
+Firstly, the GDS files for the skywater library cells were read into magic with the istyle sky130(). The cell and2_1 was loaded.
 
 ![image](https://user-images.githubusercontent.com/102425944/195670235-d991cc6d-d053-4d67-b5a4-607f8d748812.png)
 
@@ -87,6 +87,35 @@ After spice netlist was read:
 
 ### Abstract view
 
+This time, we read just the LEF files and loaded the same and2_1 cell.
+
 ![image](https://user-images.githubusercontent.com/102425944/195671189-ffa868db-22ba-425a-8e52-dc78f026a0b0.png)
+
+As expected, the port order is incorrect since this metadata is not found in the LEF files.
+
+![image](https://user-images.githubusercontent.com/102425944/195674291-67c7bb4a-0154-4674-9036-428e556f7f5f.png)
+
+However, after loading the netlist this information is added.
+
+![image](https://user-images.githubusercontent.com/102425944/195674616-3eb29b00-ca2b-4a79-8204-985e43ab5cff.png)
+
+### Basic Extraction
+
+Basic extraction:
+
+![image](https://user-images.githubusercontent.com/102425944/195676474-484a0a31-9fc1-4dcd-a3c2-37ebb50b077e.png)
+
+Extraction with capacitances:
+
+![image](https://user-images.githubusercontent.com/102425944/195677109-d85fc409-b3f4-4bc7-a97c-bd577c8db78b.png)
+
+Extraction with resistances:
+
+![image](https://user-images.githubusercontent.com/102425944/195678227-8e1231a0-8631-47f3-b357-b9c8edbf0169.png)
+
+### Setup for DRC
+
+
+
 
 

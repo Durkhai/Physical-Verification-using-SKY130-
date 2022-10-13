@@ -109,12 +109,25 @@ Extraction with capacitances:
 
 ![image](https://user-images.githubusercontent.com/102425944/195677109-d85fc409-b3f4-4bc7-a97c-bd577c8db78b.png)
 
-Extraction with resistances:
+Extraction with capacitances and resistances:
 
 ![image](https://user-images.githubusercontent.com/102425944/195678227-8e1231a0-8631-47f3-b357-b9c8edbf0169.png)
 
 ### Setup for DRC
 
+Style was changed to drc(full), the DRC check was run on and2_1 cell.
+
+![image](https://user-images.githubusercontent.com/102425944/195679854-cd4ca096-50f3-4339-806d-69eab05a87cb.png)
+
+After adding and properly aligning a tap cell, the DRC errors go away.
+
+![image](https://user-images.githubusercontent.com/102425944/195680747-d50a6472-d1d6-4135-a2c1-b2841ee2242b.png)
+
+However, if we descend into the and2_1 cell, we see that the errors in that context are still there, they just dont exist in the top level layout.
+
+![image](https://user-images.githubusercontent.com/102425944/195680938-ac166529-c552-474d-b04b-d269ba7a0800.png)
+
+### Setup for LVS
 
 
 

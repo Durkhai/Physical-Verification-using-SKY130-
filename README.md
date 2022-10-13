@@ -129,6 +129,11 @@ However, if we descend into the and2_1 cell, we see that the errors in that cont
 
 ### Setup for LVS
 
+Results of LVS from PDK netlist and magic outputed netlist of the and2_1 cell.
+
+![image](https://user-images.githubusercontent.com/102425944/195683923-7aea3763-a617-4a0d-8820-f745d53b26f5.png)
+
+### Setup for XOR
 
 
 

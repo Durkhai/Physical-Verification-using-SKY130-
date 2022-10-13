@@ -41,4 +41,19 @@ After simulating the circuit and plotting the results, ngspice outputed a graph 
 
 From it we can see that the output voltage stays at 1.8V when the input is below acertain threshold (+-0.6V) and is 0V when the input voltage is above +-0.8V. This is the behavior expected from an inverter.
 
+### Importing schematic to layout in Magic
 
+The netlist was then imported into magic and the devices were routed to form a layout.
+
+![image](https://user-images.githubusercontent.com/102425944/195642208-040b8b87-4689-41b2-87eb-398862f335f4.png)
+
+### Final DRC/LVS checks and post layout simulations
+
+Magic tells us that there are no DRC violations, but to check for LVS ones we need to use Netgen. After running it with the original netlist against the layout netlist we get the following output.
+
+![image](https://user-images.githubusercontent.com/102425944/195643849-d971da23-e33c-4ac6-9850-a94447646a92.png)
+
+This tells us that there was a problem with creating the nets on the layout.
+
+
+## Day 2 - DRC/LVS Introduction

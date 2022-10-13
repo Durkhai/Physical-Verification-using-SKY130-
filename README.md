@@ -12,7 +12,14 @@ This repository documents the work done during the 5 day [workshop](https://www.
   + Creating a symbol from schematic
   + Importing schematic to layout in Magic
   + Final DRC/LVS checks and post layout simulations
-
+* Day 2 - DRC/LVS Introduction
+  + GDS read
+  + Ports
+  + Abstract view
+  + Basic Extraction
+  + Setup for DRC
+  + Setup for LVS
+  + Setup for XOR
 
 
 

@@ -154,3 +154,62 @@ Results of the XOR test after shifting a cell:
 
 ![image](https://user-images.githubusercontent.com/102425944/195687756-384f152e-fe41-4231-8abc-fbb6f2872afe.png)
 
+## Day 3 - Design Rule Checking
+
+To get started, the lab files were obtained from a github repository.
+
+![image](https://user-images.githubusercontent.com/102425944/195848639-eb7b94b3-cd5e-44d7-ae97-6575715d765f.png)
+
+### Width rule and spacing rule
+
+Magic can tell us what a particular DRC error is by selecting it with the box and doing a DRC report. In this case, the width of the metal was smaller than the minnimum.
+
+![image](https://user-images.githubusercontent.com/102425944/195849407-9cf05123-939a-44c7-803d-34c5e5f685ac.png)
+
+We can paint the layout using the graphic enviornment or the console.
+
+![image](https://user-images.githubusercontent.com/102425944/195850536-4edb1577-092c-4179-af32-617803b875af.png)
+
+### Wide spacing and notch rule
+
+![image](https://user-images.githubusercontent.com/102425944/195852696-ec8434ff-1fe0-4ef2-a9cb-fad812c4564f.png)
+
+![image](https://user-images.githubusercontent.com/102425944/195852754-c6ec4f0e-c0c5-42bd-864c-7747503aacb0.png)
+
+### Vias
+
+![image](https://user-images.githubusercontent.com/102425944/195854416-45448148-63e6-4a3c-920c-7fbcef0791c3.png)
+
+![image](https://user-images.githubusercontent.com/102425944/195854775-fc88ec9a-2e39-4601-8c36-7d9e8ad4fbfd.png)
+
+![image](https://user-images.githubusercontent.com/102425944/195855090-e59b8142-b71b-4929-a7ef-d32e3eefb23c.png)
+
+![image](https://user-images.githubusercontent.com/102425944/195857152-01d804eb-65d8-4efd-bc76-756546aeb8ec.png)
+
+![image](https://user-images.githubusercontent.com/102425944/195858050-48c3e9d8-59c2-496c-99d9-b6666e62ae33.png)
+
+### Minimum area and minimum hole rules
+
+![image](https://user-images.githubusercontent.com/102425944/195859600-89bbd38e-a4fd-4e0e-bbc5-98ba8e44015f.png)
+
+![image](https://user-images.githubusercontent.com/102425944/195859986-3a7b836d-0f05-46f4-a956-659a6d0b5042.png)
+
+### Wells and deep n-well
+
+![image](https://user-images.githubusercontent.com/102425944/195867683-b3b1a26e-9026-46ac-9ba2-03fad32591a9.png)
+
+
+
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/102425944/195855794-99c0459f-0fa0-459d-abeb-864e462836a7.png)
+
+
+
+
+
+

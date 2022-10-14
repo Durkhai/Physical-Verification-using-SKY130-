@@ -198,16 +198,29 @@ We can paint the layout using the graphic enviornment or the console.
 
 ![image](https://user-images.githubusercontent.com/102425944/195867683-b3b1a26e-9026-46ac-9ba2-03fad32591a9.png)
 
+![image](https://user-images.githubusercontent.com/102425944/195870715-c5dbb3c2-56de-44c1-9185-8ccc97940888.png)
 
+![image](https://user-images.githubusercontent.com/102425944/195951632-907df90f-1877-49a9-9e16-7c82747e3126.png)
 
+### Derived layers
 
+![image](https://user-images.githubusercontent.com/102425944/195952375-8a2a8405-b273-4e2c-9e9a-e2fb588b39a4.png)
 
+![image](https://user-images.githubusercontent.com/102425944/195952865-5e7c6fd3-e135-44d4-993e-c209df8d37ed.png)
 
+![image](https://user-images.githubusercontent.com/102425944/195953017-a23584a4-c3ef-4ba9-b110-df274f9c47b4.png)
 
+### Parameterized and PDK devices
 
+![image](https://user-images.githubusercontent.com/102425944/195953369-4d0e2a56-e04e-4170-9111-f0a7e2cdfcc0.png)
 
-![image](https://user-images.githubusercontent.com/102425944/195855794-99c0459f-0fa0-459d-abeb-864e462836a7.png)
+![image](https://user-images.githubusercontent.com/102425944/195955502-09e10ad6-74f5-4f15-9f3d-a872e3191be5.png)
 
+### Angle error and overlap rule
+
+![image](https://user-images.githubusercontent.com/102425944/195956147-99646d00-658b-4c5e-9e78-e70a998d51dc.png)
+
+![image](https://user-images.githubusercontent.com/102425944/195956290-bc530cd7-7ce4-4a05-a9ab-df922522c7c2.png)
 
 
 

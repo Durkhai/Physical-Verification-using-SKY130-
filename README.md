@@ -220,7 +220,13 @@ We can paint the layout using the graphic enviornment or the console.
 
 ![image](https://user-images.githubusercontent.com/102425944/195956147-99646d00-658b-4c5e-9e78-e70a998d51dc.png)
 
-![image](https://user-images.githubusercontent.com/102425944/195956290-bc530cd7-7ce4-4a05-a9ab-df922522c7c2.png)
+![image](https://user-images.githubusercontent.com/102425944/195956531-6d01d05f-22a4-477f-9836-91aa80f1edda.png)
+
+![image](https://user-images.githubusercontent.com/102425944/195956553-88eef484-9400-4b93-ab42-fa1deca5fd36.png)
+
+![image](https://user-images.githubusercontent.com/102425944/195956938-494649aa-8471-4181-b409-db8be789601a.png)
+
+### Unimplemented rules
 
 
 

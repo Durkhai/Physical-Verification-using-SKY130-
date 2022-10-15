@@ -226,9 +226,21 @@ We can paint the layout using the graphic enviornment or the console.
 
 ![image](https://user-images.githubusercontent.com/102425944/195956938-494649aa-8471-4181-b409-db8be789601a.png)
 
-### Unimplemented rules
+### Latch up and antenna rules
 
+![image](https://user-images.githubusercontent.com/102425944/195958439-1634eb6d-1706-4818-86c8-4e9235a44d93.png)
 
+![image](https://user-images.githubusercontent.com/102425944/195958693-cee074ab-3e4a-4bf7-894c-1a80450d2609.png)
+
+![image](https://user-images.githubusercontent.com/102425944/195958815-df5a40dd-f195-4008-ac1b-cb0abf0fec1e.png)
+
+### Density rules
+
+![image](https://user-images.githubusercontent.com/102425944/195959281-9c1cbe7a-ea43-44f4-b7e4-990cfa0ae312.png)
+
+![image](https://user-images.githubusercontent.com/102425944/195959418-b33dbbc2-4adf-474c-ac69-3677d0bc9629.png)
+
+![image](https://user-images.githubusercontent.com/102425944/195959521-9104c413-4ad2-4603-a52e-f3376586a983.png)
 
 
 
